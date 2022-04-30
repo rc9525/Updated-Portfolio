@@ -3,21 +3,20 @@ import React from 'react';
 function Portfolio(props) {
     return (
         <div>
-            <a href="http://www.google.com"><img src="https://via.placeholder.com/150" /></a>
+            <a href="https://github.com/Johnpo34/Golden_Giants_Proj1"><img src="https://johnpo34.github.io/Golden_GiantsProj_2/" /></a>
+            
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptate
-          quam aliquid blanditiis aperiam exercitationem doloremque voluptatum
-          qui expedita quidem numquam, laboriosam similique excepturi beatae
-          tempora dolorum repudiandae vel voluptas esse.
+          Updated portfolio featuring Project 1 with 2 other classmates
         </p>
 
-        <a href="http://www.google.com"><img src="https://via.placeholder.com/150" /></a>
+            <a href="https://github.com/rc9525/generate-password"></a>
 
         <p>
-          Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptate
-          quam aliquid blanditiis aperiam exercitationem doloremque voluptatum
-          qui expedita quidem numquam, laboriosam similique excepturi beatae
-          tempora dolorum repudiandae vel voluptas esse.
+          Homework - Generate Password
+        </p>
+            <a href="https://github.com/rc9525/scheduler"><img src="https://rc9525.github.io/scheduler" /></a>
+        <p> 
+          Homework -Day planner
         </p>
         </div>
     );

@@ -53,9 +53,12 @@ function App() {
       <footer class="bg-dark text-center text-white">
         <div class="container p-4">
           <section class="mb-4 d-flex justify-content-around">
-            <p>Link to Github</p>
-            <p>Contact Number</p>
-            <p>Email address</p>
+         
+            <p>Link to Github https://github.com/rc9525</p>
+            <p>Contact Number 123-456-7895</p>
+            <p>Email address  123@gmail.com</p>
+        
+         
           </section>
         </div>
       </footer>
